@@ -26,6 +26,13 @@ Fullstack:
 
 > [React + Spring Boot + PostgreSQL example](https://bezkoder.com/spring-boot-react-postgresql/)
 
+Run both Back-end & Front-end in one place:
+> [Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-spring-boot/)
+
+> [Integrate React.js with Spring Boot Rest API](https://bezkoder.com/integrate-reactjs-spring-boot/)
+
+> [Integrate Vue.js with Spring Boot Rest API](https://bezkoder.com/integrate-vue-spring-boot/)
+
 ## Run Spring Boot application
 ```
 mvn spring-boot:run
